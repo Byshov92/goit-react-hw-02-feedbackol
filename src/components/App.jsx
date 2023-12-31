@@ -1,6 +1,6 @@
 import { SectionTitles } from 'components/section/Section';
 
-// const { Component } = require('react');
+const { Component } = require('react');
 
 export class App extends Component {
   state = {
