@@ -1,4 +1,4 @@
-import { SectionTitles } from './section/Section';
+import { SectionTitles } from 'components/section/Section';
 
 const { Component } = require('react');
 
