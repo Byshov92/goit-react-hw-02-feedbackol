@@ -3,6 +3,7 @@ import {
   ListButtons,
 } from 'components/feedbackOptions/FeedbackOptions.styled';
 
+
 export const FeedbackOptions = ({
   onLeaveFeedbackGood,
   onLeaveFeedbackBad,
